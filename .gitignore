@@ -1,0 +1,11 @@
+*.o
+.DS_Store
+compile_commands.json
+ese_1/render
+ese_2/render
+ese_3/render
+ese_4/render
+ese_5/render
+demo/*_demo
+.vscode
+.cache
